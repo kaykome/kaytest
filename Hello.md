@@ -5,3 +5,6 @@
 * go to github navigate to that directory and create a new file with same name as the one you created on git bash
 * go back to git and initiate the "git add ." command : this will add all new files
 * now you can go back to git to edit the new file you just added.
+
+
+## LEARNING GITHUB
